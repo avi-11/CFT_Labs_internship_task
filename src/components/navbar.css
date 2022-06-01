@@ -1,0 +1,20 @@
+.navbar{
+    background-color: #FAFBFB;
+}
+
+.line{
+    width: 1px;
+    background-color: rgba(0, 0, 0, 0.1);
+    height: 30px;
+    
+}
+
+.bar{
+    color:#949DB2;
+    margin: 0 1rem;
+}
+
+.search{
+    color:#949DB2;
+    margin: 0 1rem;
+}
